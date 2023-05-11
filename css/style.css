@@ -233,3 +233,11 @@ h4 {
 ::placeholder {
   color: rgb(32, 203, 198);
 }
+
+.picture-center {
+  background-color: rgb(0, 0, 0);
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
